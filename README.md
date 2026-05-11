@@ -1,0 +1,2 @@
+# PomodoroTimer
+一个基于python实现的简单桌面番茄钟小软件

@@ -177,6 +177,8 @@ class PomodoroTimer:
     def run(self):
         self.root.mainloop()
 
+
+
 if __name__ == "__main__":
     app = PomodoroTimer()
     app.run()
